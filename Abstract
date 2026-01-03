@@ -1,0 +1,5 @@
+Abstract – Movie Recommendation System
+The rapid growth of digital streaming platforms has created a demand for intelligent recommendation systems that enhance user experience by providing personalized content suggestions. This project presents a Movie Recommendation System built in Python, designed to analyze user preferences and deliver tailored movie recommendations. The system integrates data preprocessing, exploratory data analysis (EDA), and machine learning techniques to process large-scale movie datasets.
+Two primary approaches are implemented:
+- Content-Based Filtering, which leverages movie metadata (genres, keywords, descriptions) and similarity measures (TF‑IDF, cosine similarity) to suggest movies similar to those a user has already enjoyed.
+- Collaborative Filtering, which applies matrix factorization techniques (SVD, user–item interactions) to predict ratings based on patterns in user behavior.
