@@ -1,0 +1,29 @@
+# 🎬 Movie Recommendation System
+
+## 📖 Overview
+This project implements a **Movie Recommendation System** using Python. It suggests movies to users based on their preferences and viewing history by applying **content-based filtering** and **collaborative filtering** techniques. The system demonstrates practical applications of **data analytics, machine learning, and recommendation algorithms**.
+
+---
+
+## 🔑 Features
+- Data preprocessing and cleaning of movie datasets (ratings, genres, metadata).
+- Exploratory Data Analysis (EDA) with visualizations of ratings and genre trends.
+- **Content-Based Filtering** using TF-IDF and cosine similarity.
+- **Collaborative Filtering** with matrix factorization (SVD).
+- Evaluation metrics: RMSE, precision, recall.
+- Generates top-N personalized movie recommendations.
+
+---
+
+## 🛠️ Tech Stack
+- **Languages & Libraries:** Python, Pandas, NumPy, Scikit-learn, Surprise, Matplotlib, Seaborn
+- **Dataset:** MovieLens dataset (or other public movie datasets)
+- **Environment:** Jupyter Notebook / Google Colab
+
+---
+
+## 🚀 Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sirisabbavarapu24-/Movie-Recommendation-system-using-python/git
+   cd movie-recommendation-system
